@@ -58,8 +58,17 @@ function showName(name){
 }
 ```
 
-\*\*usando tasklist no markdown
+**Usando tasklist no markdown**
 
 - [x] Site responsivo.
 - [] Login com facebook.
 - [] Pagina sobre a empresa.
+
+**Tabelas no markdown**
+
+| Propriedades | Descrição                             |
+| ------------ | ------------------------------------- |
+| name         | para informar o nome do usuario       |
+| size         | para definir o tamanho do campo       |
+| background   | cor de fundo da area em HEX           |
+| onPress      | Função chamada quando clicar no botão |
