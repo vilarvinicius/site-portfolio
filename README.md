@@ -72,3 +72,8 @@ function showName(name){
 | size         | para definir o tamanho do campo       |
 | background   | cor de fundo da area em HEX           |
 | onPress      | Função chamada quando clicar no botão |
+
+**colocando menu de links internos.**
+
+[Módulos](#módulo-1) |
+[Listas numericas](#listas-numericas)
