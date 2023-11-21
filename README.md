@@ -13,3 +13,9 @@ _Entendendo oque é **git**, aprendendo sobre **repositorio**, trabalhando com b
 - Começando GIT
 - Aprenda sobre branches.
 - GIT avançado
+
+## Listas numericas
+
+1. Começando GIT
+2. Aprenda sobre branches.
+3. GIT avançado
