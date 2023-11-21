@@ -57,3 +57,9 @@ function showName(name){
   color: #FF000;
 }
 ```
+
+\*\*usando tasklist no markdown
+
+- [x] Site responsivo.
+- [] Login com facebook.
+- [] Pagina sobre a empresa.
